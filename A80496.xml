@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter to His Excellency Sir Thomas Fairfax: subscribed by the Justices of the Peace, and committee of Devonshire, concerning the souldiers. And the Generalls answer thereunto; vvith His Excellencies propositions. Also heads of new propositions sent from the Army to the Parliament. Desiring that six weeks pay may bee provided presently for the Army, or a moneths pay at least. That their arrears may be paid out of the remainder of Bishops lands, deans, and chapters, two parts of delinquents estates, yet uncompounded for, and forrest lands. That if constant pay be provided for the Army, it shall bee death to any who shall take free quarter, or plunder; to which end they desire the 60000 li. per mensum, may be made up 100000 li. a moneth. Novemb. 10. 1647. Imprimatur G.M.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80496</idno>
+            <idno type="STC">Wing C6164</idno>
+            <idno type="STC">Thomason E413_12</idno>
+            <idno type="STC">ESTC R204484</idno>
+            <idno type="EEBO-CITATION">99863974</idno>
+            <idno type="PROQUEST">99863974</idno>
+            <idno type="VID">161270</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80496)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161270)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E413[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter to His Excellency Sir Thomas Fairfax: subscribed by the Justices of the Peace, and committee of Devonshire, concerning the souldiers. And the Generalls answer thereunto; vvith His Excellencies propositions. Also heads of new propositions sent from the Army to the Parliament. Desiring that six weeks pay may bee provided presently for the Army, or a moneths pay at least. That their arrears may be paid out of the remainder of Bishops lands, deans, and chapters, two parts of delinquents estates, yet uncompounded for, and forrest lands. That if constant pay be provided for the Army, it shall bee death to any who shall take free quarter, or plunder; to which end they desire the 60000 li. per mensum, may be made up 100000 li. a moneth. Novemb. 10. 1647. Imprimatur G.M.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>Bamfield, John.</author>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson, in Smithfield, neer the Queens-head Tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of three letters: the second is signed: John Bamfield [and 11 others]; the third is signed: T. Fairfax.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Pay, allowances, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Finance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161270:1" rendition="simple:additions"/>
+            <p>The Copy of a LETTER To His Excellency Sir <hi>THOMAS FAIRFAX:</hi>
+            </p>
+            <p>Subſcribed by the Juſtices of the <hi>Peace,</hi> and Committee of <hi>Devonſhire,</hi> concerning the SOULDIERS.</p>
+            <p>
+               <hi>And the Generalls Anſwer thereunto; VVith His</hi> Excellencies Propoſitions.</p>
+            <p>ALSO Heads of New Propoſitions ſent from the Army to the Parliament.</p>
+            <p>Deſiring that ſix weeks pay may bee provided preſently for the Army, or a Moneths pay at leaſt.</p>
+            <p>That their Arrears may be paid out of the remainder of Biſhops lands, Deans, and Chapters, two parts of Delinquents eſtates, yet uncompounded for, and Forreſt Lands.</p>
+            <p>That if conſtant pay be provided for the Army, it ſhall bee death to any who ſhall take free quarter, or plunder; To which end they deſire the <hi>60000</hi> li. per menſum, may be made up <hi>100000</hi> li. a moneth.</p>
+            <floatingText xml:lang="eng" type="imprimatur">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>Novemb.</hi> 10. 1647.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>Imprimatur</hi>
+                  </p>
+                  <closer>
+                     <signed>G. M.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon,</hi> in Smithfield, neer the Queenes-head Tavern, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161270:2"/>
+            <pb n="1" facs="tcp:161270:2"/>
+            <head>The Copy of a LETTER FROM THE ARMY <hi>Dated at</hi> Putney, <hi>Novemb.</hi> 10. 1647.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>HIs Excellency by the advice of the Generall Councell of the Army, hath ſent a Letter to the Speaker of the Houſe of Commons, to communicate the deſires of the ſaid Generall Coun<g ref="char:EOLhyphen"/>cell to the Parliament, which Letter his Excellency ſigned the 9th inſtant: The Heads where of are theſe:</p>
+            <p n="1">I. <hi>Deſiring that ſix weeks pay may be preſently provided for the Army, or a moneths pay at leaſt.</hi>
+            </p>
+            <p n="2">II. <hi>That their Arreares may be paid out of the Remin<g ref="char:EOLhyphen"/>der of Biſhops Lands, Deanes, Deanes and Chapters, two parts of Delinquents eſtates, yet uncompounded for, and Forreſt Land.</hi>
+            </p>
+            <pb n="2" facs="tcp:161270:3"/>
+            <p n="3">III. <hi>That if conſtant pay be provided for the Army, it ſhall be death to any who ſhall take free Quarter, or plunder; To which end they deſire the</hi> 60000 <hi>li.</hi> per menſum, <hi>may be made up</hi> 100000 li.<hi>a moneth.</hi>
+            </p>
+            <p>The Generall Councell, and the Agitators have concurred to adjourn ſitting untill after the Generall Randezvouſes, which will bee next week. And then ſomething will bee tendred, which I hope will ſettle all.</p>
+            <closer>
+               <dateline>
+                  <hi>Putney</hi> 
+                  <date>the 10th <hi>of Novemb.</hi> 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>THE Copy of a Letter from the Juſtices of the Peace, and Committee of <hi>Devonſhire.</hi>
+            </head>
+            <head>To his Excellency Sir <hi>Thomas Fairfax,</hi> Comman<g ref="char:EOLhyphen"/>der in Chiefe of the Parliaments Forces.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WE cannot but with all thankfulneſſe acknow<g ref="char:EOLhyphen"/>ledge that our ſitting in peace is in a great part due to your Excellency, our ſufferings being mo<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> then other Counties, the ſenſe of reliefe cannot but be,
+<pb n="3" facs="tcp:161270:3"/>as more acceptable, ſo the more obliging to thoſe that receive it, the conſideration hereof requires, in the firſt place, our hearty acknowledgement, which wee moſt humbly herewith tender you, in confidence of your wonted goodneſſe, crave leave to repreſent to you ſome particulars, wherein (we conceive) your Excel<g ref="char:EOLhyphen"/>lency is abuſed, the Parliaments Orders diſobeyed, and this City exceedingly wronged.</p>
+            <p>About nine moneths ſince the Houſe of Commons commanded the disbanding (among ſeverall other Forces in this County) a Troope of Horſe, under the Command of Major <hi>Perkins,</hi> paying them a moneths pay, and the Committee of the Weſt were to ſignifie to the Committee of this County, the pleaſure of the Houſe herein, which was accordingly done the 4th of <hi>January</hi> laſt: And the Committee of this County, knowing it to be a great ſervice to the publique, bor<g ref="char:EOLhyphen"/>rowed the money being about 375 li. to pay them off. And the Major received five weekes pay (which was 74 l. more then the Committee here had order to pay them,) and the Order for disbanding, and paid his Troopes with it, and promiſed to disband, notwith<g ref="char:EOLhyphen"/>ſtanding ever ſince (to the great oppreſſion of this County) this Troope hath contrary to three ſeverall Orders, ſome moneths ſince iſſued, continued toge<g ref="char:EOLhyphen"/>ther, exacted free Quarter from the County, and (as we are informed) have levyed divers ſummes of mo<g ref="char:EOLhyphen"/>ney on ſeverall Pariſhes, and ſince they were queſtion<g ref="char:EOLhyphen"/>ed for it, have produced an Order from your Excel<g ref="char:EOLhyphen"/>lency (procured as we conceive, upon a miſ-informa<g ref="char:EOLhyphen"/>tion) dated the 25 of <hi>September</hi> laſt, for the quarter<g ref="char:EOLhyphen"/>ing of the ſaid Troope within this County, we be<g ref="char:EOLhyphen"/>ing confident, as yet, the ſtate of this buſineſſe hath not been truely repreſented to your Excellency<g ref="char:punc">▪</g> And
+<pb n="4" facs="tcp:161270:4"/>f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nding this to be preſented as a great grievance (by the Grand Jury, at this our Generall Seſſions thought it our duty to certifie theſe truths to you, beſeeching you according to the Order of the Houſe of Com<g ref="char:EOLhyphen"/>mons, and that of the Committee of the Weſt, they may not keepe in a body, to the terrour of the people, and the abſolute diſabling us to levy the Grand Aſ<g ref="char:EOLhyphen"/>ſeſſements, for the pay of your Excellencies Army. The redreſſe of theſe our grievances will oblige us to remaine.</p>
+            <closer>
+               <signed>Your Excellencies moſt humble ſervants
+<list>
+                     <item>
+                        <hi>John Bamfield</hi>
+                     </item>
+                     <item>
+                        <hi>John Northcote</hi>
+                     </item>
+                     <item>
+                        <hi>Edmond Fowell</hi>
+                     </item>
+                     <item>
+                        <hi>John Davis</hi>
+                     </item>
+                     <item>
+                        <hi>Nich. Martin</hi>
+                     </item>
+                     <item>
+                        <hi>George Chudleigh</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Davyes</hi>
+                     </item>
+                     <item>
+                        <hi>William Fry</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Dukes</hi>
+                     </item>
+                     <item>
+                        <hi>John Tyrling</hi>
+                     </item>
+                     <item>
+                        <hi>Edmond Prideaux</hi>
+                     </item>
+                     <item>
+                        <hi>William Putt.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>
+                  <hi>Exeter at the generall Seſſions of the Peace for the County of</hi> De<g ref="char:EOLhyphen"/>von, <date>
+                     <hi>the</hi> 9th <hi>of</hi> Octob. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>His Excellencies Anſwer to the Juſtices and Committee, of the County of <hi>Devon.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>I Have received yours of <hi>October</hi> 9. wherein you are pleaſed to beginne with ſuch acknowledge<g ref="char:EOLhyphen"/>ments, as I wiſh may alwaies be directed to God the Authour of your peace and bleſſings, and not to my ſelf otherwiſe then as a weak Inſtrument in his hands,
+<pb n="5" facs="tcp:161270:4"/>who ſhall expect or wiſh no returne from you but that (as I preſume you are conſtant to the publique intereſt, which God hath ſo owned, ſo) that you would bee carefull that theſe whom yee have like<g ref="char:EOLhyphen"/>wiſe ſo eminently owned to make them the cheife In<g ref="char:EOLhyphen"/>ſtruments of his worke, to your ſelves and the King<g ref="char:EOLhyphen"/>dome, may meete with no unworthy requitals: As to the buſineſſe of Major <hi>Perkins</hi> his Troppe, I con<g ref="char:EOLhyphen"/>feſſe I did before underſtand what you now write concerning the appointed disbanding thereof, and I thanke you for your friendly information.</p>
+            <p>I ſhall now leave it to bee accordingly disbanded by you, deſiring, onely that (if poſſible) they may have the encouragement of three weekes pay, and the Certificates for what further Arreares (may be rea<g ref="char:EOLhyphen"/>ſonable) due unto them, and that you would uſe the ſame hand towards what other Troopes of ſallery Horſe you have belonging to your County to diſ<g ref="char:EOLhyphen"/>band them likewiſe (ſince they can none of them come within the eſtabliſhment now reſolved on by the Parliament) and ſo doing, I aſſure you, that I ſhall not continue to any, any order or countenance from me to keepe longer in a body, to the terrour or trouble of your Country, but doe hereby revoke what Orders they had from me for their quartering in your County. I have one requeſt to adde in be<g ref="char:EOLhyphen"/>halfe of the Governour of <hi>Exceſter.</hi> Caſtle with the other Officers and foot belonging thereunto that (they being to be continued, and brought under the eſta<g ref="char:EOLhyphen"/>bliſhment of the 180000. now reſolved on by the Parliament, ſo as there will be very ſhortly order ta<g ref="char:EOLhyphen"/>ken for their conſtant pay) you would for the preſent take care and effectuall order, that they may be ſup<g ref="char:EOLhyphen"/>plyed
+<pb n="6" facs="tcp:161270:5"/>for their preſent ſubſiſtance, with either monies proviſions, or convenient Quarters, neereſt to their place of duty, which you will ſhortly have power to diſcharge, out of the Aſſeſments of the County.</p>
+            <epigraph>
+               <q>Vera Copia Examinat.</q>
+            </epigraph>
+            <closer>
+               <dateline>Putney <date>
+                     <hi>the</hi> 10th. <hi>of. No.</hi> 1647.</date>
+               </dateline>
+               <signed>Yours to ſerve you T. FAIRFAX.</signed>
+            </closer>
+            <trailer> 
+               <hi>For my renowned friends Sir</hi> John Bamfeild <hi>and the reſt of the</hi> Juſtices <hi>of</hi> Peace <hi>and</hi> Com<g ref="char:EOLhyphen"/>mittee <hi>for the County of</hi> Devon.</trailer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
